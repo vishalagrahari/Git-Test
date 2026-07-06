@@ -1,2 +1,4 @@
 created a new file for git demo
 adding some more lines to generate a new tag
+
+adding a new line after creating feature1 branch from command line
