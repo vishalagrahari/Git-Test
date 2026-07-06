@@ -3,4 +3,8 @@ adding some more lines to generate a new tag
 
 adding a new line after creating feature1 branch from command line
 
+<<<<<<< HEAD
 added this line from master branch
+=======
+adding this line from feature 2 branch
+>>>>>>> feature2
